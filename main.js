@@ -12,7 +12,7 @@ async function startAudio() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        authorization: "token d2cd488dbb1faa84a224d5fb4b7722142adc88c9",
+        authorization: "token :)",
       },
       body: JSON.stringify({
         text: "After reviewing your auto policy, I see that you currently have comprehensive coverage with a $500 deductible. To add roadside assistance for an additional $4.25 per month, please confirm by saying 'yes' or by visiting your account online using reference number INS-48271.",
